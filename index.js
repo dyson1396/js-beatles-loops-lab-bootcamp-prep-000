@@ -1,1 +1,1 @@
- function theBeatlesPlay(array, )
+ function theBeatlesPlay(musicians, instruments )
